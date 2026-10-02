@@ -160,9 +160,9 @@ p { margin: 0 0 1em; }
 .hero__stats {
   list-style: none; padding: 0; margin: 0;
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
-  max-width: 720px;
+  max-width: 480px;
 }
 .hero__stats li {
   padding: 1rem 1.2rem;
@@ -310,7 +310,6 @@ p { margin: 0 0 1em; }
 .footer { padding: 3rem 0; border-top: 1px solid var(--border); }
 .footer__inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; }
 .footer p { margin: 0; color: var(--text-muted); font-size: 0.9rem; }
-.footer__note { width: 100%; font-size: 0.8rem !important; opacity: 0.7; }
 
 /* ---------- Animations d'apparition ---------- */
 .js .reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s ease, transform 0.7s ease; }

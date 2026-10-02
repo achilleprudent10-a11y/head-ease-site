@@ -25,4 +25,3 @@ puis aller sur http://localhost:8000.
 - **Formulaire** : il ouvre le logiciel de messagerie du visiteur (mailto).
   Pour recevoir les demandes directement, brancher un service type Formspree
   ou un webhook N8N.
-- **Chiffres du Hero** (« +10 h gagnées ») : à ajuster selon vos vrais résultats.
