@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var CONTACT_EMAIL = "contact@head-ease.fr";
+  var CONTACT_EMAIL = "achilleprudent10@gmail.com";
 
   // Année dans le footer
   var yearEl = document.getElementById("year");

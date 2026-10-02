@@ -20,7 +20,7 @@ puis aller sur http://localhost:8000.
 
 ## À personnaliser
 
-- **E-mail de contact** : `contact@head-ease.fr` est un exemple. Le changer dans
+- **E-mail de contact** : `achilleprudent10@gmail.com`. Pour le changer, modifier
   `index.html` (section Contact) et dans `script.js` (`CONTACT_EMAIL`).
 - **Formulaire** : il ouvre le logiciel de messagerie du visiteur (mailto).
   Pour recevoir les demandes directement, brancher un service type Formspree
